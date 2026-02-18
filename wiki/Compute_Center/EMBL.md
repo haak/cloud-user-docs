@@ -8,7 +8,7 @@ The de.NBI cloud team at EMBL can be contacted via denbi-requests(at)embl.de
 
 ## Login
 
-Currently we restrict access to our Kubernetes cluster via OIDC connected to our in house Keycloak installation. Once a project has been accepted you will be given Credentials to our DeNBI domain. We use Apache Guacamole to allow web based access to the cluster. [Login](https://bastion-test.denbi.cloud.embl.de)
+Currently we restrict access to our Kubernetes cluster via OIDC connected to our in house Keycloak installation. Once a project has been accepted you will be given Credentials to our DeNBI domain. We use Apache Guacamole to allow web based access to the cluster. [Login](https://bastion-prod(dot)denbi(dot)cloud(dot)embl(dot)de)
 
 ## Network
 
